@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Bay Contractors & Roofing",
+    "phone": "+16283003066",
+    "category": "siding contractor",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Francisco's Siding Experts",
+      "heroSubline": "Protecting homes and businesses with quality siding solutions. Delivering durability and curb appeal across the Bay Area.",
+      "aboutTitle": "Built on Integrity, Driven by Quality",
+      "aboutText": [
+        "Bay Contractors & Roofing started with a simple mission: to provide San Francisco homeowners and businesses with reliable, high-quality siding services. Frustrated by the lack of dependable contractors, we set out to build a company founded on transparency, skilled craftsmanship, and unwavering commitment to customer satisfaction.",
+        "Our approach is simple: listen to our clients, assess their unique needs, and deliver tailored solutions that exceed expectations. We believe in open communication, meticulous attention to detail, and using only the finest materials to ensure lasting results. We don't cut corners – we deliver quality, every time.",
+        "We're proud to be a part of the San Francisco community. We actively support local initiatives and strive to minimize our environmental impact through responsible waste management and sustainable practices. When you choose Bay Contractors & Roofing, you're choosing a partner who cares about your property and our shared future."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Highly skilled installers ensuring precise and durable siding application."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "Using only top-grade siding products from trusted manufacturers."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear, detailed estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of San Francisco's unique climate and architectural styles."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation siding consultation from Bay Contractors & Roofing."
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable, affordable, and versatile vinyl siding installed with precision.",
+        "description": "Vinyl siding remains a popular choice for San Francisco homeowners due to its affordability, durability, and versatility. At Bay Contractors & Roofing, we offer a wide selection of vinyl siding styles and colors to complement any home's architecture. Our experienced installers ensure a precise and weather-resistant installation, protecting your home from the elements for years to come.\n\nWe handle everything from removing old siding to preparing the walls and installing the new vinyl siding with meticulous attention to detail. We use only high-quality vinyl products that resist fading, cracking, and warping, ensuring a long-lasting and beautiful finish. We also offer a variety of trim and accessories to complete the look and enhance your home's curb appeal.\n\nWhether you're looking to update your home's exterior or protect it from the harsh San Francisco weather, vinyl siding is an excellent choice. Contact us today for a free consultation and let us help you find the perfect vinyl siding solution for your needs.",
+        "process": [
+          "Step 1: Consultation and assessment of your home's specific needs.",
+          "Step 2: Removal of existing siding and preparation of the wall surface.",
+          "Step 3: Precise installation of new vinyl siding with weather-resistant sealing.",
+          "Step 4: Final inspection to ensure quality and customer satisfaction."
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Durable and low-maintenance",
+          "Wide variety of styles and colors",
+          "Enhanced curb appeal and property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last?",
+            "answer": "With proper installation and maintenance, vinyl siding can last for 20-40 years."
+          },
+          {
+            "question": "Is vinyl siding environmentally friendly?",
+            "answer": "Modern vinyl siding is recyclable and energy-efficient, helping to reduce your carbon footprint."
+          },
+          {
+            "question": "How much does vinyl siding installation cost?",
+            "answer": "The cost varies depending on the size of your home and the type of vinyl siding chosen. We offer free estimates to provide you with an accurate quote."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Premium fiber cement siding for lasting beauty and superior protection.",
+        "description": "Fiber cement siding offers exceptional durability, fire resistance, and aesthetic appeal, making it an ideal choice for San Francisco homes. Bay Contractors & Roofing specializes in the expert installation of fiber cement siding, providing homeowners with a long-lasting and beautiful exterior.\n\nFiber cement siding mimics the look of natural wood while offering superior resistance to rot, insects, and fire. It can withstand the rigors of the Bay Area's climate, providing years of worry-free protection. Our skilled installers ensure a precise and seamless installation, paying close attention to every detail.\n\nWe work with leading fiber cement siding manufacturers to offer a wide range of styles, colors, and textures to suit any architectural design. From traditional lap siding to modern vertical panels, we can help you create the perfect look for your home. Contact us today to learn more about the benefits of fiber cement siding.",
+        "process": [
+          "Step 1: Detailed consultation to discuss your design preferences and budget.",
+          "Step 2: Careful removal of old siding and inspection of the wall structure.",
+          "Step 3: Expert installation of fiber cement siding with precise cuts and secure fastening.",
+          "Step 4: Application of high-quality paint or stain for a lasting and beautiful finish."
+        ],
+        "benefits": [
+          "Exceptional durability and fire resistance",
+          "Authentic wood-like appearance",
+          "Low maintenance and long-lasting",
+          "Increased home value and curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of fiber cement siding over wood siding?",
+            "answer": "Fiber cement siding is more resistant to rot, insects, and fire than wood siding, making it a more durable and low-maintenance option."
+          },
+          {
+            "question": "Can fiber cement siding be painted?",
+            "answer": "Yes, fiber cement siding can be painted or stained to match your desired color scheme."
+          },
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "Fiber cement siding can last for 50 years or more with proper installation and maintenance."
+          }
+        ]
+      },
+      {
+        "slug": "wood-siding-installation",
+        "name": "Wood Siding Installation",
+        "shortDescription": "Classic wood siding installation, enhancing the natural beauty of your home.",
+        "description": "For homeowners seeking a timeless and elegant look, wood siding remains a popular choice. Bay Contractors & Roofing offers expert wood siding installation services, using high-quality lumber and skilled craftsmanship to enhance the natural beauty of your home.\n\nWe work with a variety of wood species, including cedar, redwood, and pine, to create a custom look that complements your home's architecture. Our experienced installers ensure a precise and weather-resistant installation, protecting your home from the elements. We also provide expert painting and staining services to enhance the beauty and durability of your wood siding.\n\nWhile wood siding requires more maintenance than other siding options, its natural beauty and warmth make it a worthwhile investment. Contact us today for a free consultation and let us help you choose the perfect wood siding for your home.",
+        "process": [
+          "Step 1: Selection of the appropriate wood species and siding style.",
+          "Step 2: Careful preparation of the wood, including priming and sealing.",
+          "Step 3: Precise installation of wood siding with proper nailing and weatherproofing.",
+          "Step 4: Application of high-quality paint or stain for a beautiful and durable finish."
+        ],
+        "benefits": [
+          "Natural beauty and timeless appeal",
+          "Customizable with various wood species and styles",
+          "Adds warmth and character to your home",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for siding?",
+            "answer": "Cedar and redwood are popular choices for wood siding due to their natural resistance to rot and insects."
+          },
+          {
+            "question": "How often does wood siding need to be painted or stained?",
+            "answer": "Wood siding typically needs to be painted or stained every 3-5 years, depending on the climate and exposure to the elements."
+          },
+          {
+            "question": "How can I prevent wood siding from rotting?",
+            "answer": "Proper installation, regular maintenance, and the use of high-quality sealants can help prevent wood siding from rotting."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair",
+        "shortDescription": "Fast and reliable siding repair services to protect your home from water damage.",
+        "description": "Damaged siding can compromise your home's protection and aesthetic appeal. Bay Contractors & Roofing offers prompt and reliable siding repair services to address any issues, from minor cracks to extensive damage. We understand the importance of maintaining your siding to prevent water damage and preserve your home's value.\n\nOur experienced technicians can repair all types of siding, including vinyl, fiber cement, and wood. We use high-quality materials and proven techniques to ensure a long-lasting repair. We also offer emergency repair services to address urgent issues and prevent further damage.\n\nDon't let damaged siding compromise your home's protection. Contact Bay Contractors & Roofing for fast and reliable siding repair services.",
+        "process": [
+          "Step 1: Thorough inspection to assess the extent of the damage.",
+          "Step 2: Removal of damaged siding and preparation of the underlying structure.",
+          "Step 3: Repair or replacement of damaged siding with matching materials.",
+          "Step 4: Sealing and finishing to ensure a seamless and weather-resistant repair."
+        ],
+        "benefits": [
+          "Prevents water damage and mold growth",
+          "Preserves your home's value and curb appeal",
+          "Extends the life of your siding",
+          "Cost-effective solution for minor damage"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs to be repaired?",
+            "answer": "Signs of siding damage include cracks, holes, warping, and discoloration."
+          },
+          {
+            "question": "Can I repair siding myself?",
+            "answer": "While some minor repairs can be done DIY, it's best to hire a professional for significant damage to ensure a proper and lasting repair."
+          },
+          {
+            "question": "How much does siding repair cost?",
+            "answer": "The cost of siding repair varies depending on the extent of the damage and the type of siding. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Complete siding replacement for enhanced protection and a fresh new look.",
+        "description": "When siding is beyond repair or you're looking to upgrade your home's exterior, Bay Contractors & Roofing offers complete siding replacement services. We provide expert installation of high-quality siding products to enhance your home's protection, energy efficiency, and curb appeal.\n\nWe work with a wide range of siding materials, including vinyl, fiber cement, and wood, to create a custom look that meets your needs and budget. Our experienced installers ensure a precise and weather-resistant installation, protecting your home from the elements for years to come.\n\nWe handle every aspect of the siding replacement process, from removing old siding to preparing the walls and installing the new siding with meticulous attention to detail. Contact us today for a free consultation and let us help you transform your home's exterior.",
+        "process": [
+          "Step 1: Comprehensive assessment of your home's siding needs.",
+          "Step 2: Removal of existing siding and inspection of the wall structure.",
+          "Step 3: Installation of new siding with proper insulation and weatherproofing.",
+          "Step 4: Final inspection to ensure quality and customer satisfaction."
+        ],
+        "benefits": [
+          "Enhanced protection from the elements",
+          "Improved energy efficiency and reduced utility bills",
+          "Increased home value and curb appeal",
+          "Fresh new look for your home"
+        ],
+        "faq": [
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration of siding replacement depends on the size of your home and the complexity of the project. We will provide you with an estimated timeline during the consultation process."
+          },
+          {
+            "question": "What is the best time of year for siding replacement?",
+            "answer": "Siding replacement can be done year-round in San Francisco, but the best time is typically during the dry season (spring and summer)."
+          },
+          {
+            "question": "How much does siding replacement cost?",
+            "answer": "The cost of siding replacement varies depending on the size of your home, the type of siding chosen, and the complexity of the project. We offer free estimates to provide you with an accurate quote."
+          }
+        ]
+      },
+      {
+        "slug": "siding-inspections",
+        "name": "Siding Inspections",
+        "shortDescription": "Thorough siding inspections to identify potential problems early.",
+        "description": "Protect your investment with regular siding inspections from Bay Contractors & Roofing. Our comprehensive inspections identify potential problems early, preventing costly repairs and ensuring the longevity of your siding. We assess the condition of your siding, looking for signs of damage, wear, and water intrusion. Our detailed reports provide you with a clear understanding of your siding's health and any necessary repairs or maintenance.\n\nWe examine all aspects of your siding, including the panels, trim, and sealant. We also check for proper installation and ventilation. Our inspections are designed to help you maintain your siding and protect your home from the elements.\n\nSchedule a siding inspection today and gain peace of mind knowing your home is protected.",
+        "process": [
+          "Step 1: Visual inspection of the entire siding surface.",
+          "Step 2: Detailed examination of seams, edges, and corners.",
+          "Step 3: Moisture testing to detect hidden water damage.",
+          "Step 4: Comprehensive report with findings and recommendations."
+        ],
+        "benefits": [
+          "Early detection of potential problems",
+          "Prevents costly repairs and water damage",
+          "Extends the life of your siding",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my siding inspected?",
+            "answer": "We recommend having your siding inspected at least once a year, or after any major storms."
+          },
+          {
+            "question": "What does a siding inspection include?",
+            "answer": "A siding inspection includes a visual examination of the siding surface, a detailed examination of seams and edges, and moisture testing to detect hidden water damage."
+          },
+          {
+            "question": "How much does a siding inspection cost?",
+            "answer": "The cost of a siding inspection varies depending on the size of your home. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-siding",
+        "name": "Commercial Siding Services",
+        "shortDescription": "Expert siding solutions for businesses, ensuring durability and professional appearance.",
+        "description": "Bay Contractors & Roofing provides comprehensive commercial siding services in San Francisco, ensuring your business property looks its best and is protected from the elements. We understand the unique needs of commercial properties and offer durable, low-maintenance siding solutions that enhance curb appeal and protect your investment.\n\nWe work with a variety of siding materials suitable for commercial buildings, including vinyl, fiber cement, and metal. Our experienced team ensures precise installation, minimizing disruption to your business operations. We also offer siding repair and maintenance services to keep your building looking its best.\n\nPartner with Bay Contractors & Roofing for reliable commercial siding solutions that meet your specific requirements.",
+        "process": [
+          "Step 1: Consultation and assessment of your commercial property's needs.",
+          "Step 2: Selection of the appropriate siding material and style.",
+          "Step 3: Expert installation with minimal disruption to your business.",
+          "Step 4: Ongoing maintenance and repair services as needed."
+        ],
+        "benefits": [
+          "Enhanced curb appeal and professional appearance",
+          "Durable and low-maintenance siding solutions",
+          "Protection from the elements",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of siding are best for commercial buildings?",
+            "answer": "Vinyl, fiber cement, and metal siding are all excellent choices for commercial buildings due to their durability and low maintenance."
+          },
+          {
+            "question": "How long does commercial siding installation take?",
+            "answer": "The duration of commercial siding installation depends on the size and complexity of the building. We will provide you with an estimated timeline during the consultation process."
+          },
+          {
+            "question": "Do you offer financing options for commercial siding projects?",
+            "answer": "We offer flexible financing options to help you manage the cost of your commercial siding project. Contact us for more information."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Francisco",
+        "slug": "san-francisco-ca",
+        "state": "CA",
+        "content": "Bay Contractors & Roofing is proud to offer our expert siding and roofing services to homeowners and businesses throughout San Francisco. We understand the unique architectural styles and weather conditions of the city, and we're committed to providing top-quality workmanship and materials that will protect and enhance your property for years to come.\n\nFrom Victorian homes in Pacific Heights to modern condos in SoMa, we have the experience and expertise to handle any siding or roofing project, big or small. We offer a wide range of siding options, including vinyl, fiber cement, wood, and metal, as well as a variety of roofing materials, such as asphalt shingles, tile, and metal. We'll work with you to choose the best products for your needs and budget.",
+        "localContext": "San Francisco, a vibrant city known for its iconic landmarks like the Golden Gate Bridge and its diverse neighborhoods, presents unique challenges and opportunities for exterior home renovation due to its varied microclimates and architectural styles.",
+        "nearbyAreas": [
+          "Oakland",
+          "Berkeley",
+          "Sausalito"
+        ]
+      },
+      {
+        "city": "Oakland",
+        "slug": "oakland-ca",
+        "state": "CA",
+        "content": "Bay Contractors & Roofing extends its premier siding and roofing services to Oakland, a dynamic city across the bay from San Francisco. We recognize Oakland's diverse neighborhoods, from the historic Victorian homes in Old Oakland to the modern developments along the waterfront, each presenting unique architectural considerations.\n\nOur team is equipped to handle a wide array of projects, ensuring that every installation or repair respects Oakland's unique aesthetic while providing lasting protection against the elements. We pride ourselves on delivering tailored solutions that enhance the beauty and value of your Oakland property.",
+        "localContext": "Oakland, a culturally rich city with a thriving arts scene and diverse architectural landscape, requires a nuanced approach to exterior home improvements, considering its unique blend of historic charm and modern innovation.",
+        "nearbyAreas": [
+          "Berkeley",
+          "Alameda",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Berkeley",
+        "slug": "berkeley-ca",
+        "state": "CA",
+        "content": "Bay Contractors & Roofing is dedicated to providing top-notch siding and roofing services in Berkeley, a city known for its progressive spirit and diverse architectural styles. We understand the unique needs of Berkeley homeowners and businesses, from the historic Craftsman bungalows to the modern eco-friendly designs.\n\nWe offer a wide range of sustainable and energy-efficient siding and roofing options to help you reduce your carbon footprint and save money on your energy bills. Our team is committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Berkeley, a city renowned for its academic institutions and commitment to sustainability, demands eco-conscious and aesthetically sensitive solutions for exterior renovations, blending functionality with environmental responsibility.",
+        "nearbyAreas": [
+          "Oakland",
+          "Albany",
+          "Emeryville"
+        ]
+      },
+      {
+        "city": "Sausalito",
+        "slug": "sausalito-ca",
+        "state": "CA",
+        "content": "Bay Contractors & Roofing proudly serves Sausalito, offering expert siding and roofing solutions to this picturesque waterfront community. We understand the unique challenges posed by the coastal environment, including salt air and moisture, and we're committed to providing durable and weather-resistant materials that will protect your property from the elements.\n\nFrom charming hillside homes to waterfront estates, we have the experience and expertise to handle any siding or roofing project in Sausalito. We offer a wide range of styles and colors to complement the town's unique architectural character.",
+        "localContext": "Sausalito, a charming coastal town with stunning views of the San Francisco Bay, requires specialized siding and roofing solutions to withstand the marine environment and preserve its unique architectural character.",
+        "nearbyAreas": [
+          "San Francisco",
+          "Mill Valley",
+          "Tiburon"
+        ]
+      },
+      {
+        "city": "Mill Valley",
+        "slug": "mill-valley-ca",
+        "state": "CA",
+        "content": "Bay Contractors & Roofing extends its services to Mill Valley, providing exceptional siding and roofing solutions to this beautiful town nestled among redwood forests. We understand the importance of blending seamlessly with the natural environment, offering materials and designs that complement Mill Valley's unique aesthetic.\n\nOur team is skilled in handling a variety of architectural styles, ensuring that every project enhances the beauty and value of your home while providing lasting protection against the elements. We are committed to delivering top-quality workmanship and unparalleled customer service.",
+        "localContext": "Mill Valley, a serene town surrounded by redwood forests and breathtaking landscapes, requires siding and roofing solutions that harmonize with its natural beauty and provide durable protection against the elements.",
+        "nearbyAreas": [
+          "Sausalito",
+          "Tiburon",
+          "San Rafael"
+        ]
+      },
+      {
+        "city": "Tiburon",
+        "slug": "tiburon-ca",
+        "state": "CA",
+        "content": "Bay Contractors & Roofing is pleased to offer its siding and roofing expertise to Tiburon, a prestigious waterfront community known for its stunning views and upscale homes. We understand the discerning tastes of Tiburon homeowners and are committed to providing the highest quality materials and craftsmanship.\n\nWe offer a wide range of siding and roofing options, including premium materials like cedar shingles, slate, and copper, to enhance the beauty and value of your property. Our team will work closely with you to create a custom solution that meets your specific needs and preferences.",
+        "localContext": "Tiburon, an affluent waterfront community with stunning views of the San Francisco Bay, demands premium siding and roofing solutions that reflect its sophisticated aesthetic and withstand the coastal environment.",
+        "nearbyAreas": [
+          "Sausalito",
+          "Belvedere",
+          "Corte Madera"
+        ]
+      },
+      {
+        "city": "San Rafael",
+        "slug": "san-rafael-ca",
+        "state": "CA",
+        "content": "Bay Contractors & Roofing proudly serves San Rafael, offering comprehensive siding and roofing services to homeowners and businesses throughout the city. We understand the diverse architectural styles of San Rafael, from historic Victorian homes to modern developments, and we're equipped to handle any project, big or small.\n\nWe offer a wide range of siding and roofing options to suit your budget and aesthetic preferences. Our team is committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "San Rafael, a vibrant city with a mix of historic charm and modern developments, requires adaptable siding and roofing solutions that cater to its diverse architectural landscape.",
+        "nearbyAreas": [
+          "Novato",
+          "Terra Linda",
+          "Larkspur"
+        ]
+      },
+      {
+        "city": "Novato",
+        "slug": "novato-ca",
+        "state": "CA",
+        "content": "Bay Contractors & Roofing is dedicated to providing top-quality siding and roofing services in Novato, a growing city in Marin County. We understand the unique needs of Novato homeowners, from the newer suburban developments to the older, established neighborhoods.\n\nWe offer a wide range of durable and energy-efficient siding and roofing options to protect your home from the elements and improve its curb appeal. Our team is committed to providing honest and reliable service at a fair price.",
+        "localContext": "Novato, a family-friendly city with a mix of suburban developments and open spaces, requires durable and cost-effective siding and roofing solutions that cater to its growing community.",
+        "nearbyAreas": [
+          "Petaluma",
+          "San Rafael",
+          "Santa Rosa"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Bay Contractors & Roofing did an amazing job installing vinyl siding on my home in the Sunset District. The crew was professional, efficient, and paid attention to every detail. My house looks brand new!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "I had some storm damage to my fiber cement siding, and Bay Contractors & Roofing came out quickly to assess the damage and provide a repair solution. They matched the existing siding perfectly, and you can't even tell there was any damage.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Wood Siding Installation",
+        "text": "We chose Bay Contractors & Roofing to install wood siding on our Victorian home in Pacific Heights, and we couldn't be happier with the result. The craftsmanship is outstanding, and the wood siding adds so much character to our home.",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "After dealing with constant siding issues, we decided to replace all of our siding. Bay Contractors & Roofing made the process smooth and stress-free. They helped us choose the right siding for our needs and installed it with precision. Highly recommend!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Sarah P.",
+        "rating": 4,
+        "service": "Siding Inspection",
+        "text": "I had Bay Contractors & Roofing perform a siding inspection to assess the condition of my home before putting it on the market. Their detailed report gave me peace of mind and helped me address any issues before listing the property.",
+        "date": "2024-09-28"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Commercial Siding Services",
+        "text": "We hired Bay Contractors & Roofing to install new siding on our commercial building downtown. They were professional, efficient, and completed the project on time and within budget. The new siding has significantly improved the building's appearance.",
+        "date": "2025-04-02"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Bay Contractors & Roofing | San Francisco",
+        "description": "San Francisco's top siding contractor. Expert installation & repair of vinyl, fiber cement & wood siding. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Bay Contractors & Roofing",
+        "description": "Learn about Bay Contractors & Roofing's commitment to quality siding services in San Francisco. Trusted local experts."
+      },
+      "services": {
+        "title": "Siding Services | Bay Contractors & Roofing",
+        "description": "Comprehensive siding services in San Francisco. Vinyl, fiber cement, wood siding installation & repair. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Us | Bay Contractors & Roofing",
+        "description": "Contact Bay Contractors & Roofing for a free siding consultation. Serving San Francisco and surrounding areas."
+      },
+      "reviews": {
+        "title": "Reviews | Bay Contractors & Roofing",
+        "description": "See what our satisfied customers are saying about Bay Contractors & Roofing's siding services in San Francisco."
+      },
+      "service-areas": {
+        "title": "Service Areas | Bay Contractors & Roofing",
+        "description": "Bay Contractors & Roofing provides expert siding services throughout San Francisco & surrounding areas. Get a free quote today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "wood-siding-installation": "/images/service-wood-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "siding-inspections": "/images/service-siding-inspections.webp",
+      "commercial-siding": "/images/service-commercial-siding.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-siding-installation": {
+        "src": "/images/service-wood-siding-installation.webp",
+        "srcset": "/images/service-wood-siding-installation-400w.webp 400w, /images/service-wood-siding-installation-800w.webp 800w, /images/service-wood-siding-installation-1200w.webp 1200w, /images/service-wood-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-inspections": {
+        "src": "/images/service-siding-inspections.webp",
+        "srcset": "/images/service-siding-inspections-400w.webp 400w, /images/service-siding-inspections-800w.webp 800w, /images/service-siding-inspections-1200w.webp 1200w, /images/service-siding-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-siding": {
+        "src": "/images/service-commercial-siding.webp",
+        "srcset": "/images/service-commercial-siding-400w.webp 400w, /images/service-commercial-siding-800w.webp 800w, /images/service-commercial-siding-1200w.webp 1200w, /images/service-commercial-siding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
